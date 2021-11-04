@@ -1,0 +1,38 @@
+body {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background: black;
+    opacity: 0.9;
+    text-align: center;
+  }
+  
+  header {
+    height: 69px;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-logo.png");
+    background-repeat: no-repeat;
+    
+    background-size: 200px;
+    border: solid;
+    border-color: black;
+    border-bottom-color: grey;
+  }
+  
+  li {
+    text-align: right;
+    display: inline;
+    text-decoration: underline;
+  }
+  
+  h1 {
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg");
+    height: 700px;
+    margin-left: 25px;
+    margin-right: 25px;
+    
+  }
+  
+  h2 {
+    background-color: black;
+    
+  }
