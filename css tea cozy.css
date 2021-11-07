@@ -8,8 +8,7 @@ body {
   }
   
   header {
-    height: 69px;
-    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-logo.png");
+    background-image: url("../../images/img-tea-cozy-logo.webp");
     background-repeat: no-repeat;
     text-align: right;
     background-size: 200px;
