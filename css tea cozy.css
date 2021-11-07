@@ -11,7 +11,7 @@ body {
     height: 69px;
     background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-logo.png");
     background-repeat: no-repeat;
-    
+    text-align: right;
     background-size: 200px;
     border: solid;
     border-color: black;
@@ -25,11 +25,11 @@ body {
   }
   
   h1 {
-    background-image: url("../entwinedjet274/images/img-mission-background.webp");
+    background-image: url("../../images/img-mission-background.webp");
     height: 700px;
     margin-left: 25px;
     margin-right: 25px;
-    
+    background-position: center;
   }
   
   h2 {
