@@ -6,11 +6,10 @@
           <link href='css tea cozy.css' rel='stylesheet'>
           <link  href="../images/img-tea-cozy-logo.webp" rel="images">
           <link href="../images/img-mission-background.webp" rel="images">
+          <script src='script.js'></script>
     </head>
             <body>
-              <script src='script.js'></script>
- 
-                <header>
+              <header>
                   <nav class="navigation">
 <ul>
   <li>Mission</li>
