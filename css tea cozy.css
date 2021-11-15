@@ -8,7 +8,7 @@ body {
   }
   
   header {
-    background-image: url("../../images/img-tea-cozy-logo.webp");
+    background-image: url("../images/img-tea-cozy-logo.webp");
     background-repeat: no-repeat;
     text-align: right;
     background-size: 200px;
@@ -24,7 +24,7 @@ body {
   }
   
   h1 {
-    background-image: url("../../images/img-mission-background.webp");
+    background-image: url("../images/img-mission-background.webp");
     height: 700px;
     margin-left: 25px;
     margin-right: 25px;
