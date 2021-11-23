@@ -28,8 +28,7 @@ li {
 h1 {
   background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg");
   height: 700px;
-  margin-left: 25px;
-  margin-right: 25px;
+  margin: 35px;
   background-repeat: no-repeat;
   background-position: middle; 
   position: center;
