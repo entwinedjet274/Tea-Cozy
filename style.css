@@ -1,0 +1,236 @@
+body {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background: black;
+  opacity: 0.9;
+  text-align: center;
+  
+}
+
+header {
+  height: 69px;
+  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-logo.png");
+  background-repeat: no-repeat;
+  text-align: right;
+  background-size: 200px;
+  border: solid;
+  border-color: black;
+  border-bottom-color: grey;
+}
+
+li {
+  text-align: right;
+  display: inline;
+  text-decoration: underline;
+}
+
+h1 {
+  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg");
+  height: 700px;
+  margin-left: 25px;
+  margin-right: 25px;
+  background-repeat: no-repeat;
+  background-position: middle; 
+  position: center;
+  text-align: center;
+
+}
+
+
+h2 {
+  
+  
+}
+
+h3 {
+
+}
+
+h4 {
+  
+}
+
+.container {
+  position: relative;
+  width: 1200px;
+  height: 100px;
+  top: 300px;
+  background-color: black;
+  text-align: center;
+  
+}
+
+.container-words {
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+#ons {
+  font-size: 40px;
+  margin-top: -10px;
+  text-align: center;
+}
+#twos {
+  margin-top: -10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.tea {
+  width: 1000px;
+  height: 700px;
+  position: relative;
+  margin-left: 25px;
+  margin-right: 25px;
+  display: inline;
+
+}
+
+.tea-cup {
+
+}
+
+.first-row{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+}
+
+.sec-row{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  }
+  
+  #berry {
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-berryblitz.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  background-size: contain;
+
+  }
+
+#berry-2{
+  margin-top: 210px;
+}
+
+  #rum {
+background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-spiced-rum.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  background-size: contain;
+
+  }
+
+  #rum-2 {
+    margin-top: 210px;
+  }
+
+  #donuts {
+background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-donut.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  background-size: contain;
+  
+  }
+
+  #donuts-2{
+   margin-top: 210px;
+  }
+
+#myrtle {
+  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-myrtle-ave.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  background-size: contain;
+}
+#myrtle-2 {
+  margin-top: 210px;
+}
+  #bizarre {
+     background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-bedford-bizarre.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  background-size: contain;
+ 
+  }
+  #bizarre-2 {
+margin-top: 210px;
+  }
+
+.text {
+  display: inline-block;
+  text-align: center;
+}
+.text-2{
+  display: inline-block;
+}
+
+.last-sec {
+  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+ width: 1200px;
+  height: 500px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin: 50px;
+  
+}
+.last-secs {
+  margin: -26px;
+
+}
+
+.box {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  display: inline-block;
+  position: relative;
+  margin: 40px;
+  opacity: 1px;
+  
+  
+}
+
+#one {
+position: left;
+
+
+}
+
+#two {
+position: middle;
+  
+}
+
+#three {
+position: right;
+
+
+}
+
+.footer {
+  height: 200px;
+margin-top: 75px;
+}
+
+.copyright {
+  margin-left: 20px;
+  text-align: left;
+  font-size: 15px;
+}
